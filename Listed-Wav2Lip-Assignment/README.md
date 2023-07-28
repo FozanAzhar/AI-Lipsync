@@ -2,6 +2,8 @@
 
 The model can be run by executing the cells one by one in the notebook Listed_Wav2Lip.ipynb.
 
+Drive Link:  https://drive.google.com/drive/folders/1U8-gKy0GQXUFWM0MdDbM_G61BhnjNdqn
+
 ## Steps
 
 Step 1: Setup Wav2Lip
