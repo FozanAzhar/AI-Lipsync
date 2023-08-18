@@ -45,4 +45,4 @@ After processing, the tool generates a LipSynced video where the lip movements a
 https://github.com/FozanAzhar/AI_LipSync_Wav2lip/assets/95569589/08164e6c-8d8d-4e38-9182-173bbb64c617
 
 ## Acknowledgments
-This project is built upon the Wav2Lip framework developed by (prajwalkr)[https://github.com/Rudrabha/Wav2Lip]. Special thanks to the developers of the underlying tools and models that make this LipSyncing tool possible.
+This project is built upon the Wav2Lip framework developed by [prajwalkr](https://github.com/Rudrabha/Wav2Lip).
