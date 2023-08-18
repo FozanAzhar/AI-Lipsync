@@ -46,10 +46,3 @@ https://github.com/FozanAzhar/AI_LipSync_Wav2lip/assets/95569589/08164e6c-8d8d-4
 
 
 
-## Acknowledgments
-
-This project is built upon the Wav2Lip framework developed by [justinjohn0306](https://github.com/justinjohn0306/Wav2Lip). Special thanks to the developers of the underlying tools and models that make this LipSyncing tool possible.
-
----
-
-Feel free to customize and expand upon this README as needed. This should give users a clear understanding of your project, its capabilities, and its limitations.
