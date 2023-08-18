@@ -1,10 +1,7 @@
 # Wav2Lip_Lipsync
-
-The model can be implemented by executing the cells one by one in the notebook Listed_Wav2Lip.ipynb.
-Link for the input audio and video used:  https://drive.google.com/drive/folders/1U8-gKy0GQXUFWM0MdDbM_G61BhnjNdqn
-Resultant video:
-
-
+To attain the desired outcome, we've employed a pre-trained model sourced from Wav2Lip, particularly the Wav2Lip + GAN model. You can access the corresponding GitHub page for this model <a href="https://github.com/Rudrabha/Wav2Lip">here</a>.
+- Link for the input audio and video used:  https://drive.google.com/drive/folders/1U8-gKy0GQXUFWM0MdDbM_G61BhnjNdqn
+## Resultant video:
 https://github.com/FozanAzhar/AI_LipSync_Wav2lip/assets/95569589/bb7f26b4-fd95-4308-b803-cde044764000
 
 
