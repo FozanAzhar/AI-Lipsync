@@ -8,9 +8,31 @@ To set up the project, follow these steps:
 
 1. Install Dependencies: The required dependencies can be installed by running the provided code. This includes the necessary packages for audio processing, video editing, and model inference.
 
+   `!rm -rf /content/sample_data`
+   `!mkdir /content/sample_data`
+
+- Clone the repository:
+
+   ```bash
+   !git clone https://github.com/FozanAzhar/AI-Lipsync
+   ```
+
 2. Download Pretrained Model: The Wav2Lip + GAN pretrained model is automatically downloaded using the provided code. This model is the backbone of the LipSync tool and ensures accurate synchronization between audio and video.
 
+     ``` bash
+     !wget 'https://iiitaphyd-my.sharepoint.com/personal/radrabha_m_research_iiit_ac_in/_layouts/15/download.aspx?share=EdjI7bZlgApMqsVoEUUXpLsBxqXbn5z8VTmoxp55YNDcIA' -O 
+     '/content/Wav2Lip/checkpoints/wav2lip_gan.pth'
+      ```
+
+- Install FFmpeg Python package:
+
+   ``` !pip install ffmpeg-python ```
+
 3. Face Detection Model: A pretrained face detection model is also included in the setup. This model helps in accurately detecting faces in videos.
+
+  ```bash
+  !wget "https://www.adrianbulat.com/downloads/python-fan/s3fd-619a316812.pth" -O "/content/Wav2Lip/face_detection/detection/sfd/s3fd.pth"
+  ```
 
 4. Audio Recording: The project provides functionality to record audio directly in the Colab environment. This is done through audio recording code that utilizes the browser's capabilities.
 
