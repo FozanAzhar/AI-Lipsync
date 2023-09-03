@@ -2,6 +2,8 @@
 
 This project is an implementation of a LipSync tool using the Wav2Lip framework. It allows you to synchronize audio and video streams in real-time, creating a seamless and natural lip movement effect. The tool utilizes the Wav2Lip + GAN pre-trained model to achieve this synchronization.
 
+Drive link (Output) : https://drive.google.com/drive/folders/1U8-gKy0GQXUFWM0MdDbM_G61BhnjNdqn?usp=drive_link
+
 ## Setup
 
 To set up the project, follow these steps:
@@ -61,8 +63,6 @@ The project combines audio and video streams using the Wav2Lip + GAN model. The 
 After processing, the tool generates a LipSynced video where the lip movements are synchronized with the audio. The output video is available for preview and download.
 
 ## Resultant preview 
-
-
 
 https://github.com/FozanAzhar/AI_LipSync_Wav2lip/assets/95569589/08164e6c-8d8d-4e38-9182-173bbb64c617
 
